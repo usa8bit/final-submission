@@ -1,0 +1,4 @@
+Features Javascript
+
+mengirimkan pesan yang ditulis oleh user ke spreadsheet google sehingga develop bisa melihat pesan
+& menampilkan alert ketika pesan berhasil dikirim
